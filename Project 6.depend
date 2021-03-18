@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1585633406 source:c:\users\Антон Фишмен\desktop\c practice\project 6\date_encrypt.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
+1585636815 source:c:\users\Антон Фишмен\desktop\c practice\project 6\spam_check.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdlib.h>
+
